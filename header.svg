@@ -80,12 +80,9 @@
 			
 			
 <div class="container">
-<object data="https://komarev.com/ghpvc/?username=mjsML" type="image/png" alt="mjsML" />
+
 
 <p align="center">
-  <svg id="example2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-        <image x="0" y="0" width="275" height="95" xlink:href="http://www.google.co.uk/images/srpr/logo3w.png" />
-   </svg>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
   <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/>
   <img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" alt="jax" width="40" height="23.2"/>
