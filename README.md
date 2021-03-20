@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-	<br>
-	
-		<img src="header.svg" width="400" height="200" alt="Click to see the source">
-	
-	<br>
+<img src="header.svg" width="400" height="200" alt="Click to see the source">
 </div>
   
   
