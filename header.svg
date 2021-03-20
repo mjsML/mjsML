@@ -83,7 +83,9 @@
 <object data="https://komarev.com/ghpvc/?username=mjsML" type="image/png" alt="mjsML" />
 
 <p align="center">
-  <object data="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" type="image/png"></object>
+	<image width="100" height="100"
+        xlink:href=https://www.vectorlogo.zone/logos/linux/linux-icon.svg/>
+  <object data="" type="image/png"></object>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
   <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/>
   <img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" alt="jax" width="40" height="23.2"/>
