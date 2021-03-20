@@ -85,9 +85,9 @@
 			
 			
 <div class="container">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjsML" alt="mjsML" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjsML" alt="mjsML" /style="container"> </p>
 
-<p align="center">
+<p align="center" style="container">
   <object data="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" type="image/svg+xml"></object>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
   <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/>
