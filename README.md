@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mjsML/mjsML/main/header.svg" width="400" height="200" alt="Click to see the source">
+<img src="https://raw.githubusercontent.com/mjsML/mjsML/main/header.svg" width="800" height="400" alt="Click to see the source">
 </div>
   
   
