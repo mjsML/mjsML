@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=mjsML" alt="mjsML" />
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mjsML/mjsML/main/header.svg" width="800" height="400" alt="Click to see the source">
+<img src="https://raw.githubusercontent.com/mjsML/mjsML/main/header.svg" width="600" height="300" alt="Click to see the source">
 </div>
   
   
