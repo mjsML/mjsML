@@ -83,16 +83,18 @@
 <object data="https://komarev.com/ghpvc/?username=mjsML" type="image/png" alt="mjsML" />
 
 <p align="center">
-  
-  <img src="http://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-  <img src="http://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/>
-  <img src="http://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" alt="jax" width="40" height="23.2"/>
-  <img src="http://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
-  <img src="http://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="http://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> 
-  <img src="http://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  <img src="http://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  <img src="http://raw.githubusercontent.com/dmlc/web-data/master/mxnet/image/mxnet_logo_2.png" alt="mxnet" width="45" height="26"/>
+  <svg id="example2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <image x="0" y="0" width="275" height="95" xlink:href="http://www.google.co.uk/images/srpr/logo3w.png" />
+   </svg>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+  <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" alt="jax" width="40" height="23.2"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/image/mxnet_logo_2.png" alt="mxnet" width="45" height="26"/>
 </p>
 </div>
 </div>
