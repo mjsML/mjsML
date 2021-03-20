@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
   <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" alt="jax" width="60" height="40"/>
+  <img src="https://jax.readthedocs.io/en/latest/_static/jax_logo_250px.png" alt="jax" width="50" height="35"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   <img src="https://jtes.net/wp-content/uploads/2015/05/NVIDIA_CUDA_V_2C_r.jpg" alt="cuda" width="40" height="40"/>
