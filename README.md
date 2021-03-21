@@ -20,8 +20,8 @@
   <img src="https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/image/mxnet_logo_2.png" alt="mxnet" width="50" height="35"/>
 </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjsML&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="mjsML" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mjsML&include_all_commits=true" alt="mjsML" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjsML&include_all_commits=true" alt="mjsML" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mjsML&include_all_commits=true&count_private=true" alt="mjsML" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjsML&include_all_commits=true&count_private=true" alt="mjsML" /></p>
 
 <!--
 Based on https://raw.githubusercontent.com/qubvel/qubvel/master/README.md
